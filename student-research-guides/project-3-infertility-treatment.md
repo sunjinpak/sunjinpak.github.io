@@ -26,8 +26,8 @@ This document provides instructions for writing your research paper and preparin
 - [Qualitative Research Paper Guide](qualitative-research-paper-guide) - How to write a qualitative research paper in APA format
 - [Literature Review Guide](literature-review-guide) - How to conduct a literature review
 - [Reddit Data Collection Guide](reddit-data-collection-guide) - How to collect data from Reddit
-- [Data Collection Guide](https://sunjinpak.github.io/SRSC2026/project3.html) - Step-by-step data collection instructions
-- [Writing Guide](https://sunjinpak.github.io/SRSC2026/project3-writing-guide.html) - Qualitative paper writing guide
+- [Data Collection Guide](https://sunjinpak.github.io/SRSC/project3.html) - Step-by-step data collection instructions
+- [Writing Guide](https://sunjinpak.github.io/SRSC/project3-writing-guide.html) - Qualitative paper writing guide
 
 ### Paper Structure
 
@@ -125,8 +125,8 @@ Contact Dr. Pak if you have any questions about:
 ---
 
 ## Project Files
-- [Data Collection Guide](https://sunjinpak.github.io/SRSC2026/project3.html)
-- [Writing Guide](https://sunjinpak.github.io/SRSC2026/project3-writing-guide.html)
+- [Data Collection Guide](https://sunjinpak.github.io/SRSC/project3.html)
+- [Writing Guide](https://sunjinpak.github.io/SRSC/project3-writing-guide.html)
 
 ---
 

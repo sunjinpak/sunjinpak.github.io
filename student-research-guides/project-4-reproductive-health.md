@@ -25,10 +25,10 @@ This document provides instructions for writing your research paper and preparin
 
 - [Quantitative Research Paper Guide](quantitative-research-paper-guide) - How to write a quantitative research paper in APA format
 - [Literature Review Guide](literature-review-guide) - How to conduct a literature review
-- [Hypotheses](https://sunjinpak.github.io/SRSC2026/project4-hypotheses.html) - Your research hypotheses
-- [Method and Results](https://sunjinpak.github.io/SRSC2026/project4-method.html) - Method section and results (already written)
-- [Codebook](https://sunjinpak.github.io/SRSC2026/project4-codebook.html) - Variable descriptions and data dictionary
-- [Data](https://sunjinpak.github.io/SRSC2026/project4-data.html) - Full dataset
+- [Hypotheses](https://sunjinpak.github.io/SRSC/project4-hypotheses.html) - Your research hypotheses
+- [Method and Results](https://sunjinpak.github.io/SRSC/project4-method.html) - Method section and results (already written)
+- [Codebook](https://sunjinpak.github.io/SRSC/project4-codebook.html) - Variable descriptions and data dictionary
+- [Data](https://sunjinpak.github.io/SRSC/project4-data.html) - Full dataset
 
 ### Paper Structure
 
@@ -50,8 +50,8 @@ Your final paper should include:
 | Title Page | ❌ To do |
 | Abstract | ❌ To do |
 | Introduction | ❌ To do |
-| Method | ✅ Provided in [Method and Results](https://sunjinpak.github.io/SRSC2026/project4-method.html) |
-| Results | ✅ Provided in [Method and Results](https://sunjinpak.github.io/SRSC2026/project4-method.html) |
+| Method | ✅ Provided in [Method and Results](https://sunjinpak.github.io/SRSC/project4-method.html) |
+| Results | ✅ Provided in [Method and Results](https://sunjinpak.github.io/SRSC/project4-method.html) |
 | Discussion | ❌ To do |
 | References | ❌ To do |
 
@@ -120,10 +120,10 @@ Contact Dr. Pak if you have any questions about:
 
 ## Project Files
 
-- [Hypotheses](https://sunjinpak.github.io/SRSC2026/project4-hypotheses.html)
-- [Method and Results](https://sunjinpak.github.io/SRSC2026/project4-method.html)
-- [Codebook](https://sunjinpak.github.io/SRSC2026/project4-codebook.html)
-- [Data](https://sunjinpak.github.io/SRSC2026/project4-data.html)
+- [Hypotheses](https://sunjinpak.github.io/SRSC/project4-hypotheses.html)
+- [Method and Results](https://sunjinpak.github.io/SRSC/project4-method.html)
+- [Codebook](https://sunjinpak.github.io/SRSC/project4-codebook.html)
+- [Data](https://sunjinpak.github.io/SRSC/project4-data.html)
 
 ---
 

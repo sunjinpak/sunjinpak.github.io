@@ -17,7 +17,7 @@ Welcome to the CSUB Student Research Guides. These resources will help you condu
 | [Project 2](project-2-leader-workaholism) | Leader Workaholism & School Withdrawal | Jesus, Eric | Quantitative |
 | [Project 3](project-3-infertility-treatment) | Infertility Treatment & Workplace Support | Tina, Cyrina | Qualitative |
 | [Project 4](project-4-reproductive-health) | Leader Workaholism & Reproductive Health | Quin, Michelle | Quantitative |
-| [Project 5](project-5-grim-agriculture) | Green Initiative in Agriculture | Quyen | Qualitative |
+| [Project 5](project-5-grim-agriculture) | Green Initiative in Agriculture | Quin | Qualitative |
 
 ---
 

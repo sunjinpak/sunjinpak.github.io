@@ -7,7 +7,7 @@ title: "Project 5: GRIM Agriculture"
 
 **Title**: Green Initiative in Agriculture: A Qualitative Investigation of Agriculture Workers' Experiences with Air Quality in the San Joaquin Valley
 
-**Team**: Quyen
+**Team**: Quin
 
 **Competition**: Student Poster Board Presentation (SPP)
 

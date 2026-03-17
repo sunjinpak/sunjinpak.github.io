@@ -9,7 +9,7 @@ title: "Project 5: GRIM Agriculture"
 
 **Team**: Quin
 
-**Competition**: Student Poster Board Presentation (SPP)
+**Competition**: Grimm Family Center Student Research Symposium
 
 ---
 
@@ -207,24 +207,26 @@ For each theme:
 See [Research Presentation Guide](research-presentation-guide) for detailed instructions.
 
 **Key Info:**
-- **Presentation**: 10 minutes
+- **Presentation**: 20 minutes
 - **Q&A**: 5 minutes
 
 ---
 
 ## 4. Timeline
 
-### Student Poster Board Presentation (SPP)
+### Grimm Family Center Student Research Symposium
 
 | Task | Deadline |
 |------|----------|
 | Read all transcripts | March 21, 2026 (Sat) |
 | Complete open coding | March 28, 2026 (Sat) |
 | Group codes into themes | April 1, 2026 (Wed) |
-| Application | March 25, 2026 |
-| **Poster Presentation** | **April 8, 2026** |
+| Review and refine themes | April 4, 2026 (Sat) |
+| Prepare presentation | April 5-9, 2026 |
+| **Symposium Presentation** | **April 10, 2026 (Fri) 10:00 AM - 1:30 PM** |
 
-- [GRASP - Student Poster Board Presentation](https://www.csub.edu/grasp/student-poster-board-presentation.shtml)
+- **Format**: 20 minutes presentation + 5 minutes Q&A
+- **Location**: Walter W. Stiern Library, Dezember Reading Room
 
 ---
 

@@ -57,18 +57,16 @@ Your final paper should include:
 
 8 transcripts with pseudonyms assigned to protect participant identities.
 
-| Pseudonym | Role |
-|-----------|------|
-| Alex (P1) | Healthcare + agricultural facilities |
-| Nathan (P2) | Field supervisor, agricultural company |
-| Maria (P3) | Dairy/cheese production + ranch owner |
-| Elena (P4) | Staff accountant, ag company |
-| Laura (P5) | HR analyst, ag company |
-| Isabel (P6) | HR Generalist, pistachio company |
-| Valeria (P7) | Environmental field technician |
-| Miguel (P8) | Employee, large ag company |
-
-Transcripts will be shared via Google Drive.
+| Pseudonym | Role | Transcript |
+|-----------|------|------------|
+| Alex (P1) | Healthcare + agricultural facilities | [Read](grim-transcripts/alex-p1) |
+| Nathan (P2) | Field supervisor, agricultural company | [Read](grim-transcripts/nathan-p2) |
+| Maria (P3) | Dairy/cheese production + ranch owner | [Read](grim-transcripts/maria-p3) |
+| Elena (P4) | Staff accountant, ag company | [Read](grim-transcripts/elena-p4) |
+| Laura (P5) | HR analyst, ag company | [Read](grim-transcripts/laura-p5) |
+| Isabel (P6) | HR Generalist, pistachio company | [Read](grim-transcripts/isabel-p6) |
+| Valeria (P7) | Environmental field technician | [Read](grim-transcripts/valeria-p7) |
+| Miguel (P8) | Employee, large ag company | [Read](grim-transcripts/miguel-p8) |
 
 ### Potential Research Questions
 

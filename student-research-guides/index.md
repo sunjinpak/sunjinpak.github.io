@@ -18,6 +18,7 @@ Welcome to the CSUB Student Research Guides. These resources will help you condu
 | [Project 3](project-3-infertility-treatment) | Infertility Treatment & Workplace Support | Tina, Cyrina | Qualitative |
 | [Project 4](project-4-reproductive-health) | Leader Workaholism & Reproductive Health | Quin, Michelle | Quantitative |
 | [Project 5](project-5-grim-agriculture) | Green Initiative in Agriculture | Quin | Qualitative |
+| [Project 6](project-6-leader-workaholism-food-safety) | Leader Workaholism & Food Safety | Eric | Quantitative |
 
 ---
 

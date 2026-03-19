@@ -51,6 +51,43 @@ Your final paper should include:
 | Discussion | To do |
 | References | To do |
 
+### Method Section Guide
+
+Your Method section should include four subsections. Here is what to write in each.
+
+#### Participants and Procedure
+
+- Describe who participated (employees in the agriculture and food processing industry, aged 18+)
+- Mention the recruitment method (online survey distributed via LinkedIn and snowball sampling)
+- Report the target sample size (100-150) and the actual number of responses you received
+- Note that participation was voluntary and anonymous, with IRB approval (Protocol #27-12)
+- Mention informed consent was obtained at the start of the survey
+- Report demographics (age, gender, tenure, job type, industry sector, shift, education level) with means, SDs, and percentages
+
+#### Measures
+
+For each measure, write a brief paragraph that includes the source, number of items, sample item, response scale, and Cronbach's alpha from your data. Example format:
+
+> **Leader Workaholism.** Leader workaholism was measured using a 10-item adapted version of the Dutch Work Addiction Scale (DUWAS; Schaufeli et al., 2009). Participants rated their direct supervisor on a 5-point Likert scale (1 = *Strongly Disagree*, 5 = *Strongly Agree*). The scale has two subscales: Working Excessively (5 items) and Working Compulsively (5 items). A sample item is "My supervisor stays busy and keeps many irons in the fire." Cronbach's alpha was [report from your data].
+
+Write similar paragraphs for:
+- **Food Safety Compliance** (6 items, 5-point scale from *Never* to *Always*, adapted from Neal & Griffin, 2006)
+- **Turnover Intention** (3 items, 5-point Likert scale, Colarelli, 1984; note one item is reverse-coded)
+- **After-Hours Work Contact** (5 items, 5-point scale from *Never* to *Very Often*, adapted from Derks et al., 2015)
+- **Emotional Exhaustion** (5 items, 5-point scale from *Never* to *Always*, Maslach & Jackson, 1981)
+- **Job Satisfaction** (3 items, 5-point Likert scale, Cammann et al., 1983; note one item is reverse-coded)
+
+#### Control Variables
+
+- List any demographic variables you control for in your analyses (e.g., age, tenure, education)
+
+#### Analytic Strategy
+
+- Correlation analysis to examine relationships among all study variables
+- Multiple regression to test H1-H3 (direct effects)
+- Mediation analysis using the PROCESS macro (Hayes, 2022, Model 4) to test H4-H5
+- Report that you checked for normality, multicollinearity, and common method bias
+
 ### Writing Tips
 
 1. Start with the **Introduction** - build the theoretical foundation for your hypotheses

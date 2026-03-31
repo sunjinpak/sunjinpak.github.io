@@ -25,6 +25,7 @@ This study examines how leader workaholism affects food safety compliance and em
 
 - [Quantitative Research Paper Guide](quantitative-research-paper-guide) - How to write a quantitative research paper in APA format
 - [Literature Review Guide](literature-review-guide) - How to conduct a literature review
+- [Method and Results](https://sunjinpak.github.io/SRSC/project6-method.html) - Method section and results (already written)
 
 ### Paper Structure
 
@@ -46,8 +47,8 @@ Your final paper should include:
 | Title Page | To do |
 | Abstract | To do |
 | Introduction | To do |
-| Method | To do |
-| Results | To do |
+| Method | ✅ Provided in [Method and Results](https://sunjinpak.github.io/SRSC/project6-method.html) |
+| Results | ✅ Provided in [Method and Results](https://sunjinpak.github.io/SRSC/project6-method.html) |
 | Discussion | To do |
 | References | To do |
 

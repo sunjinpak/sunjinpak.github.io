@@ -55,7 +55,7 @@ Your final paper should include:
 
 **Interview Transcripts (De-identified)**
 
-8 transcripts with pseudonyms assigned to protect participant identities.
+7 transcripts with pseudonyms assigned to protect participant identities.
 
 | Pseudonym | Role | Transcript |
 |-----------|------|------------|
@@ -66,7 +66,6 @@ Your final paper should include:
 | Laura (P5) | HR analyst, ag company | [Read](grim-transcripts/laura-p5) |
 | Isabel (P6) | HR Generalist, pistachio company | [Read](grim-transcripts/isabel-p6) |
 | Valeria (P7) | Environmental field technician | [Read](grim-transcripts/valeria-p7) |
-| Miguel (P8) | Employee, large ag company | [Read](grim-transcripts/miguel-p8) |
 
 ### Potential Research Questions
 
